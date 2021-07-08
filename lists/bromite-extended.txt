@@ -44,4 +44,3 @@ https://hostfiles.frogeye.fr/firstparty-trackers.txt
 
 # My own block list
 https://raw.githubusercontent.com/xarantolus/nervig/main/annoyances.txt
-https://github.com/JS-Super/cosmetic-filters/raw/0.0.1/filters.txt
