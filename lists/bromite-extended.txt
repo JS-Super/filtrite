@@ -17,7 +17,6 @@ https://filters.adtidy.org/extension/ublock/filters/14.txt
 # Other uBlock Origin filters
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
-https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
 
 # CNAME record trackers
 https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
